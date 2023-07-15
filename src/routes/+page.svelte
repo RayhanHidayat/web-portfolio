@@ -37,7 +37,7 @@
                     id="linked_in"
                     href="https://www.linkedin.com/in/rayhan-an-hidayat"
                     target="_blank">LinkedIn</a
-                > or <a id="github" href="https://github.com/RayhanHidayat" target="_blank">GitHub</a> account!
+                > or <a id="github" href="https://github.com/RayhanHidayat" target="_blank">GitHub</a> account.
             </h4>
         </div>
     </section>
